@@ -1,6 +1,6 @@
 # Advanced Settings
 
-The ‘Advanced Settings’ panel is more specific than the [Basic Settings](basic-settings.md) and allows you to further control the typography of your website. The settings include:
+The ‘Advanced Settings’ panel is more specific than the [Basic Settings](basic-settings/) and allows you to further control the typography of your website. The settings include:
 
 **Branding**
 
