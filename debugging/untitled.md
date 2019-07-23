@@ -1,5 +1,5 @@
 ---
-description: This action can be no reversed.
+description: This action can be not reversed.
 ---
 
 # Reset All Fonts
