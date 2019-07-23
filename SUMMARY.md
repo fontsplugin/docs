@@ -1,14 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Installation](untitled.md)
+* [Installation](installation.md)
 
-## Basic Settings <a id="basic-settings-1"></a>
+## Basic Settings
 
-* [Base Typography](basic-settings-1/base-typography.md)
-* [Headings Typography](basic-settings-1/headings-typography.md)
-* [Buttons and Inputs Typography](basic-settings-1/buttons-and-inputs-typography.md)
-* [Basic Settings](basic-settings-1/basic-settings.md)
+* [Base Typography](basic-settings/base-typography.md)
+* [Headings Typography](basic-settings/headings-typography.md)
+* [Buttons and Inputs Typography](basic-settings/buttons-and-inputs-typography.md)
 
 ## Advanced Settings <a id="advanced-settings-1"></a>
 
