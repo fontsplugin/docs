@@ -1,19 +1,23 @@
 # Table of contents
 
 * [Installation](README.md)
+* [Untitled](untitled.md)
 * [Basic Settings](basic-settings/README.md)
-  * [Branding](basic-settings/branding.md)
-  * [Navigation](basic-settings/navigation.md)
-  * [Content](basic-settings/content.md)
-  * [Sidebar](basic-settings/sidebar.md)
-  * [Footer](basic-settings/footer.md)
-  * [Load Fonts Only](basic-settings/load-fonts-only.md)
-* [Advanced Settings](advanced-settings.md)
+  * [Base Typography](basic-settings/base-typography.md)
+  * [Headings Typography](basic-settings/headings-typography.md)
+  * [Buttons and Inputs Typography](basic-settings/buttons-and-inputs-typography.md)
+* [Advanced Settings](advanced-settings/README.md)
+  * [Branding](advanced-settings/branding.md)
+  * [Navigation](advanced-settings/navigation.md)
+  * [Content](advanced-settings/content.md)
+  * [Sidebar](advanced-settings/sidebar.md)
+  * [Footer](advanced-settings/footer.md)
+* [Load Fonts Only](load-fonts-only.md)
 * [Custom Elements](custom-elements.md)
 
 ## Classic Editor
 
-* [Untitled](classic-editor/untitled.md)
+* [Getting Started](classic-editor/untitled.md)
 
 ## Gutenberg
 
