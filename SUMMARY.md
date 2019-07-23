@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Installation](README.md)
-* [Untitled](untitled.md)
+* [Introduction](README.md)
+* [Installation](untitled.md)
 * [Basic Settings](basic-settings/README.md)
   * [Base Typography](basic-settings/base-typography.md)
   * [Headings Typography](basic-settings/headings-typography.md)
