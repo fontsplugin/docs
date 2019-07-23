@@ -21,7 +21,7 @@
 
 ## Classic Editor
 
-* [Getting Started](classic-editor/untitled.md)
+* [Getting Started](classic-editor/getting-started.md)
 
 ## Gutenberg
 

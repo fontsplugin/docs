@@ -6,7 +6,7 @@ Within minutes you can transform the typography of your website using the easy-t
 
 Fonts can be set globally across your entire website, or for maximum control you can customize each line of text individually.
 
-Fonts Plugin works with both the [Classic Editor](classic-editor/untitled.md) and [Gutenberg](https://docs.fontsplugin.com/gutenberg/getting-started).
+Fonts Plugin works with both the [Classic Editor](classic-editor/getting-started.md) and [Gutenberg](https://docs.fontsplugin.com/gutenberg/getting-started).
 
 
 
