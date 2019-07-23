@@ -1,5 +1,7 @@
 # Custom Elements
 
+`Appearance` → `Customize` → `Google Fonts` → `Custom Elements`
+
 Custom Elements allow you to build Typography settings for any element on your website.
 
 Custom Elements can be created under `Google Fonts` ****→ **`Custom Elements`.**

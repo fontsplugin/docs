@@ -1,5 +1,7 @@
 # Base Typography
 
+`Appearance` → `Customize` → `Google Fonts` → `Basic Settings`
+
 The base typography settings allow you to change the typography of your entire website in as little as two clicks.
 
 ![](https://fontsplugin.com/wp-content/uploads/2019/04/basic-settings-panel-555x1024.png)

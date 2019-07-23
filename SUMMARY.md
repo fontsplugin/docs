@@ -16,8 +16,8 @@
 * [Content](advanced-settings-1/content.md)
 * [Sidebar](advanced-settings-1/sidebar.md)
 * [Footer](advanced-settings-1/footer.md)
-* [Load Fonts Only](advanced-settings-1/load-fonts-only/README.md)
-  * [Custom Elements](advanced-settings-1/load-fonts-only/custom-elements.md)
+* [Load Fonts Only](advanced-settings-1/load-fonts-only.md)
+* [Custom Elements](advanced-settings-1/custom-elements.md)
 
 ## Classic Editor
 
