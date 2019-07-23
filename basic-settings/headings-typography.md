@@ -1,6 +1,6 @@
 # Headings Typography
 
-`Appearance` → `Customize` → `Google Fonts` → `Basic Settings`
+`Appearance` → `Customize`→ `Google Fonts` → `Basic Settings`
 
 Clicking the blue icon to the left of the ‘Font Family’ will reveal additional typography controls:Font weight, style, size, color and line-height settings.
 

@@ -1,4 +1,4 @@
 # Content
 
-`Appearance` → `Customize` → `Google Fonts` → `Advanced Settings` → `Content`
+`Appearance` → `Customize`→ `Google Fonts` → `Advanced Settings` → `Content`
 

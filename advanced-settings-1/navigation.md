@@ -1,4 +1,4 @@
 # Navigation
 
-`Appearance` → `Customize` → `Google Fonts` → `Advanced Settings` → `Navigation`
+`Appearance` → `Customize`→ `Google Fonts` → `Advanced Settings` → `Navigation`
 

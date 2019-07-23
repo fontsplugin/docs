@@ -1,4 +1,4 @@
 # Buttons and Inputs Typography
 
-`Appearance` → `Customize` → `Google Fonts` → `Basic Settings`
+`Appearance` → `Customize`→ `Google Fonts` → `Basic Settings`
 

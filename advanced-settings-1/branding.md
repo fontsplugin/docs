@@ -1,4 +1,4 @@
 # Branding
 
-`Appearance` → `Customize` → `Google Fonts` → `Advanced Settings` → `Branding`
+`Appearance` → `Customize`→ `Google Fonts` → `Advanced Settings` → `Branding`
 

@@ -1,6 +1,6 @@
 # Base Typography
 
-`Appearance` → `Customize` → `Google Fonts` → `Basic Settings`
+`Appearance` → `Customize`→ `Google Fonts` → `Basic Settings`
 
 The base typography settings allow you to change the typography of your entire website in as little as two clicks.
 
