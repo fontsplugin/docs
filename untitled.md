@@ -1,6 +1,6 @@
 # Installation
 
-The Fonts Plugin is made up of two parts, the basic version and the Pro upgrade.
+Fonts Plugin is made up of two parts, the basic version and the Pro upgrade.
 
 #### Basic Installation
 

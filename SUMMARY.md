@@ -21,6 +21,7 @@
 
 ## Gutenberg
 
+* [Getting Started](gutenberg/getting-started.md)
 * [Google Fonts Block](gutenberg/google-fonts-block.md)
 * [Transformations](gutenberg/transformations.md)
 
