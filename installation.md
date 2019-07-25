@@ -4,11 +4,13 @@ Download the Pro version from your [account](https://fontsplugin.com/account/) p
 
 Navigate to `Plugins` → `New`.
 
-Click `Upload Plugin`. Choose the `google-fonts-pro.zip` file you just downloaded. Then click `Activate Plugin`.
-
-The Pro version requires the basic version to function, if it is not already installed you will be prompted to do so.
-
-![](https://fontsplugin.com/wp-content/uploads/2019/04/install-prompt-1024x101.png)
+Click `Upload Plugin`. Choose the `google-fonts-pro.zip` file you just downloaded. Then click `Activate Plugin`
 
 The installation is now complete. 🥳
+
+There are three ways to use Fonts Plugin
+
+* [Sitewide](basic-settings/base-typography.md)
+* [Classic Editor](classic-editor/getting-started.md)
+* [Gutenberg](gutenberg/getting-started.md)
 

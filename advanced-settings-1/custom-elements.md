@@ -4,7 +4,7 @@
 
 Custom Elements allow you to build Typography settings for any element on your website.
 
-Custom Elements can be created under `Google Fonts` ****→ **`Custom Elements`.**
+Custom Elements can be created under `Google Fonts` → `Custom Elements`.
 
 ![](https://fontsplugin.com/wp-content/uploads/2018/12/google-fonts-custom-element.png)
 

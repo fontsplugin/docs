@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
+* [Developers](developers.md)
 
 ## Basic Settings
 
@@ -26,7 +27,6 @@
 ## Gutenberg
 
 * [Getting Started](gutenberg/getting-started.md)
-* [Google Fonts Block](gutenberg/google-fonts-block.md)
 * [Transformations](gutenberg/transformations.md)
 
 ## Optimization
@@ -38,4 +38,10 @@
 
 * [Force Styles Setting](debugging/force-styles-setting.md)
 * [Reset All Fonts](debugging/untitled.md)
+
+## Integrations
+
+* [Beaver Builder](integrations/beaver-builder.md)
+* [Elementor](integrations/elementor.md)
+* [WPBakery](integrations/wpbakery.md)
 
