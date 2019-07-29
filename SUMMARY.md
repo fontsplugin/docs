@@ -10,15 +10,15 @@
 * [Headings Typography](basic-settings/headings-typography.md)
 * [Buttons and Inputs Typography](basic-settings/buttons-and-inputs-typography.md)
 
-## Advanced Settings <a id="advanced-settings-1"></a>
+## Advanced Settings
 
-* [Branding](advanced-settings-1/branding.md)
-* [Navigation](advanced-settings-1/navigation.md)
-* [Content](advanced-settings-1/content.md)
-* [Sidebar](advanced-settings-1/sidebar.md)
-* [Footer](advanced-settings-1/footer.md)
-* [Load Fonts Only](advanced-settings-1/load-fonts-only.md)
-* [Custom Elements](advanced-settings-1/custom-elements.md)
+* [Branding](advanced-settings/branding.md)
+* [Navigation](advanced-settings/navigation.md)
+* [Content](advanced-settings/content.md)
+* [Sidebar](advanced-settings/sidebar.md)
+* [Footer](advanced-settings/footer.md)
+* [Load Fonts Only](advanced-settings/load-fonts-only.md)
+* [Custom Elements](advanced-settings/custom-elements.md)
 
 ## Classic Editor
 

@@ -4,7 +4,7 @@ Fonts Plugin has native support the new editor \(Gutenberg\).
 
 Simply add a new block and search for `fonts` or `google fonts`:
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 The Google Fonts block has the following attributes:
 
@@ -16,7 +16,7 @@ The Google Fonts block has the following attributes:
 * Color
 * Alignment \(Left, Right, Center\)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 Regular paragraphs and heading blocks can also be [transformed](transformations.md) into Google Font blocks.
 

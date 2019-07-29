@@ -4,7 +4,7 @@
 
 The Base Typography control allows you to change the typography of your entire website in as little as two clicks.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### Size, Weight, Color and Line Height
 
