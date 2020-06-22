@@ -18,5 +18,7 @@ A Selector can target a single element, or multiple elements separated by commas
 
 Once you have created your Custom Elements. Press `Save Changes`. You will then be able to customize your Elements under `Google Fonts` → `Advanced Settings` → `Custom Elements`.
 
+![](../.gitbook/assets/image%20%2811%29.png)
+
 **Further Reading:** [How to Find CSS Selectors](https://fontsplugin.com/how-to-find-css-selectors/)
 
