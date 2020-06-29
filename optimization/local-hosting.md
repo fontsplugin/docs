@@ -12,7 +12,7 @@ Then simply toggle the switch to the `on` position.
 
 Press `Publish` and the plugin will do all the work in the background.
 
-Font Files are cached on your server for **1 year** and they are regenerated each time you change fonts.If you need to re-generate the font files at any time that is possible: 
+Font Files are cached on your server for **1 year** and they are regenerated each time you change fonts. If you need to re-generate the font files manually that is also possible: 
 
 Navigate to https://yourwebsite.com/?action=gfp-reset-cache  
 _\(replace yourwebsite.com with your own URL\)_
