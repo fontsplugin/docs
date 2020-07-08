@@ -28,11 +28,11 @@ Rows that are green already have approved translations.
 
 To add a translation simply double click the empty field and enter your translation in the area provided. Then press the blue button to submit.
 
-![Click the blue button to submit your translation.](../.gitbook/assets/image%20%2813%29.png)
-
-Continue to repeat the process for the remaining strings.
+Repeat the process for the remaining strings.
 
 Once you submit a translation it will be placed in "Waiting" status \(orange\).
+
+![These strings are waiting to be approved.](../.gitbook/assets/image%20%2813%29.png)
 
 Email us \([team@fontsplugin.com](mailto:team@fontsplugin.com)\) to let us know your translations are waiting and we will work with the translation editors to approve the contributions. This process exists to remove the possibility of malicious or erroneous translations.
 
