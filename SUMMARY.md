@@ -45,3 +45,7 @@
 * [Elementor](integrations/elementor.md)
 * [WPBakery](integrations/wpbakery.md)
 
+## Translations
+
+* [Contributing](translations/contributing.md)
+
