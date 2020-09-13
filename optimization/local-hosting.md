@@ -14,7 +14,7 @@ Press `Publish` and the plugin will do all the work in the background.
 
 Font Files are cached on your server for **1 year** and they are regenerated each time you change fonts. If you need to re-generate the font files manually that is also possible: 
 
-Navigate to https://yourwebsite.com/?action=gfp-reset-cache  
+Navigate to https://yourwebsite.com/?action=fpp-reset-cache  
 _\(replace yourwebsite.com with your own URL\)_
 
 ### WOFF2 File Format
