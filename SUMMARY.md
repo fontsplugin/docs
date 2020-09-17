@@ -39,6 +39,10 @@
 * [Force Styles Setting](debugging/force-styles-setting.md)
 * [Reset All Fonts](debugging/untitled.md)
 
+## Custom Font Uploads
+
+* [Custom Font Uploads](custom-font-uploads/custom-font-uploads.md)
+
 ## Integrations
 
 * [Beaver Builder](integrations/beaver-builder.md)
