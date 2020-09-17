@@ -34,14 +34,14 @@
 * [Font Loading](optimization/font-loading.md)
 * [Local Hosting](optimization/local-hosting.md)
 
+## Custom Font Uploads
+
+* [Custom Font Uploads](custom-font-uploads/custom-font-uploads.md)
+
 ## Debugging
 
 * [Force Styles Setting](debugging/force-styles-setting.md)
 * [Reset All Fonts](debugging/untitled.md)
-
-## Custom Font Uploads
-
-* [Custom Font Uploads](custom-font-uploads/custom-font-uploads.md)
 
 ## Integrations
 
