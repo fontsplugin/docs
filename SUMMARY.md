@@ -42,6 +42,7 @@
 
 * [Force Styles Setting](debugging/force-styles-setting.md)
 * [Reset All Fonts](debugging/untitled.md)
+* [CSS Font Display](debugging/css-font-display.md)
 
 ## Integrations
 
