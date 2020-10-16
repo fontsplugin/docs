@@ -54,3 +54,7 @@
 
 * [Contributing](translations/contributing.md)
 
+---
+
+* [Fonts Plugin Pro License Key](license-key.md)
+
