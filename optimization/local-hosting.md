@@ -27,6 +27,6 @@ To enable WOFF2, toggle the switch:
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-You will then need to clear your font cache by navigating to https://yourwebsite.com/?action=ffp-reset-cache  
+You will then need to clear your font cache by navigating to https://yourwebsite.com/?action=fpp-reset-cache  
 _\(replace yourwebsite.com with your own URL\)_
 
