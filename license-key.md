@@ -8,9 +8,9 @@ _Subject: **Fonts Plugin Pro Purchase**_
 
 Your license key and receipt is also accessible at [https://fontsplugin.com/account/](https://fontsplugin.com/account/)
 
-You will need to login first, if you don't know your password you can [reset it here](https://fontsplugin.com/wp-login.php?action=lostpassword).
+You will need to login first, if you don't have an account you can [register here](https://fontsplugin.com/account-registration/).
 
-Once you have logged in, click 'View Licenses' and then 'Manage Sites'.
+Once you have logged in, click '_View Licenses_' and then '_Manage Sites_'.
 
 If you have already activated a site it will be shown here. Otherwise it will look like this:
 
