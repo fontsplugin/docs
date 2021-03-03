@@ -46,6 +46,7 @@
 
 ## Integrations
 
+* [Adobe Fonts](integrations/adobe-fonts.md)
 * [Beaver Builder](integrations/beaver-builder.md)
 * [Elementor](integrations/elementor.md)
 * [WPBakery](integrations/wpbakery.md)
