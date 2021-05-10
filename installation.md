@@ -4,7 +4,7 @@ Download the Pro version from your [account](https://fontsplugin.com/account/) p
 
 Navigate to `Plugins` → `New`.
 
-Click `Upload Plugin`. Choose the `google-fonts-pro.zip` file you just downloaded. Then click `Activate Plugin`
+Click `Upload Plugin`. Choose the `fonts-plugin-pro.zip` file you just downloaded. Then click `Activate Plugin`
 
 The installation is now complete. 🥳
 
