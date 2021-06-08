@@ -13,7 +13,7 @@ Clicking the blue icon to the left of the ‘Font Family’ will reveal addition
 ![Font weight, style, size, color and line-height settings.](https://fontsplugin.com/wp-content/uploads/2019/04/reveal-settings.png)
 
 {% hint style="info" %}
-If your changes aren’t taking effect, you may need to enable the [‘Force Styles’ setting](../debugging/untitled/force-styles-setting.md).
+If your changes aren’t taking effect, you may need to enable the [‘Force Styles’ setting](../debugging/force-styles-setting.md).
 {% endhint %}
 
 ```text

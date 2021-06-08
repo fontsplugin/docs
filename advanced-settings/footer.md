@@ -2,7 +2,7 @@
 
 `Appearance` → `Customize` → `Google Fonts` → `Advanced Settings` → `Footer`
 
-The **sidebar** section consists of two controls:
+The **footer** section consists of two controls:
 
 **Headings Typography**
 

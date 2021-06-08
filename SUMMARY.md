@@ -40,8 +40,8 @@
 
 ## Debugging
 
-* [Reset All Fonts](debugging/untitled/README.md)
-  * [Force Styles Setting](debugging/untitled/force-styles-setting.md)
+* [Reset All Fonts](debugging/untitled.md)
+* [Force Styles Setting](debugging/force-styles-setting.md)
 * [CSS Font Display](debugging/css-font-display.md)
 
 ## Integrations
