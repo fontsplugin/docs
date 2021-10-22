@@ -4,13 +4,13 @@ If you are unable to or don't want to use WordPress' built-in updater it's possi
 
 The plugin file (_fonts-plugin-pro.zip_) is available inside your account - [https://fontsplugin.com/account/](https://fontsplugin.com/account/)
 
-You will need to login first, if you don't have an account you can [register here](https://fontsplugin.com/account-registration/).
+First, you will need to login to your account, if you don't have an account you can [register here](https://fontsplugin.com/account-registration/).
 
-First, click 'View Details and Downloads'.
+Click **View Details and Downloads**.
 
 ![](<.gitbook/assets/image (31).png>)
 
-Next, click the file name to download it to your computer.
+Click the file name to download it to your computer.
 
 ![](<.gitbook/assets/image (29).png>)
 
