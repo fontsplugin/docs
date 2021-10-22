@@ -24,7 +24,11 @@ Inside _/wp-admin_ navigate to **Plugins → Add New **and click **Upload Plugin
 
 On the next screen choose the _fonts-plugin-pro.zip_ file you just downloaded and click **Install Now**.
 
-WordPress will inform you that the old version will be overwrited. This is expected and all your configurations will be maintained.
+WordPress will inform you that the old version will be overwritten.&#x20;
+
+{% hint style="info" %}
+No settings or configurations will be lost when performing a manual update.
+{% endhint %}
 
 ![](<.gitbook/assets/image (32).png>)
 
