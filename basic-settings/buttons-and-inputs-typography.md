@@ -11,7 +11,6 @@ The Buttons and Inputs control allows you to customize the typography of the fol
 
 ![](../.gitbook/assets/buttons-inputs-typography.jpg)
 
-```text
+```
 The following CSS selectors are targeted: button, input, select, textarea
 ```
-

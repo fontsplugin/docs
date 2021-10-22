@@ -2,7 +2,7 @@
 
 The Font Display setting controls what happens while a font is loading. There are four options, and **swap** is the default.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](<../.gitbook/assets/image (17).png>)
 
 **Block**
 
@@ -19,4 +19,3 @@ The browser will initially show a fallback font. If the Google Font is downloade
 **Optional**
 
 This mode is very similar to fallback, except the wait time is a lot lower. If a font hasn’t downloaded within 100ms the fallback will persist. To realistically load in 100ms a Google Font must already be in the visitors cache.
-

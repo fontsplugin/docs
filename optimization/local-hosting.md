@@ -12,21 +12,20 @@ Then simply toggle the switch to the `on` position.
 
 Press `Publish` and the plugin will do all the work in the background.
 
-Font Files are cached on your server for **1 year** and they are regenerated each time you change fonts. If you need to re-generate the font files manually that is also possible: 
+Font Files are cached on your server for **1 year** and they are regenerated each time you change fonts. If you need to re-generate the font files manually that is also possible:&#x20;
 
-Navigate to https://yourwebsite.com/?action=fpp-reset-cache  
-_\(replace yourwebsite.com with your own URL\)_
+Navigate to https://yourwebsite.com/?action=fpp-reset-cache\
+_(replace yourwebsite.com with your own URL)_
 
 ### WOFF2 File Format
 
-By default Fonts Plugin uses the WOFF file format as it has the [highest compatibility across all browsers](https://caniuse.com/#search=woff). 
+By default Fonts Plugin uses the WOFF file format as it has the [highest compatibility across all browsers](https://caniuse.com/#search=woff).&#x20;
 
 However, there is a more optimized file format that all modern browsers support, [WOFF2](https://caniuse.com/woff2). In our testing it reduces all font file sizes by at least 30%.
 
 To enable WOFF2, toggle the switch:
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](<../.gitbook/assets/image (12).png>)
 
-You will then need to clear your font cache by navigating to https://yourwebsite.com/?action=fpp-reset-cache  
-_\(replace yourwebsite.com with your own URL\)_
-
+You will then need to clear your font cache by navigating to https://yourwebsite.com/?action=fpp-reset-cache\
+_(replace yourwebsite.com with your own URL)_

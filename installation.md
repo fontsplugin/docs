@@ -13,4 +13,3 @@ There are three ways to use Fonts Plugin
 * [Sitewide](basic-settings/base-typography.md)
 * [Classic Editor](classic-editor/getting-started.md)
 * [Gutenberg](gutenberg/getting-started.md)
-

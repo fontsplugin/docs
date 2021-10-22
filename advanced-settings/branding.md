@@ -12,7 +12,6 @@ The following CSS selectors are targeted: #site-title, .site-title, #site-title 
 
 **Site Description Typography**
 
-```text
+```
 The following CSS selectors are targeted: #site-description, .site-description
 ```
-

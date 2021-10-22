@@ -9,4 +9,3 @@ In some cases, Fonts Plugin can’t overwrite the theme-defined fonts on the fro
 {% hint style="info" %}
 Technical note: This setting applies the CSS !important rule to all font settings.
 {% endhint %}
-

@@ -6,5 +6,4 @@ The Load Fonts Only control enqeues the selected fonts without automatically app
 
 This control is also use in the [Classic Editor](../classic-editor/getting-started.md) integration.
 
-![](../.gitbook/assets/image%20%289%29.png)
-
+![](<../.gitbook/assets/image (7).png>)

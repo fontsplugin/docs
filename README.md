@@ -9,4 +9,3 @@ Fonts can be set globally across your entire website, or for maximum control you
 Fonts Plugin works with both the [Classic Editor](classic-editor/getting-started.md) and [Gutenberg](https://docs.fontsplugin.com/gutenberg/getting-started).
 
 For users that require fonts that are not included in the Google Fonts library, support for [Custom Font Uploads](https://docs.fontsplugin.com/custom-font-uploads/custom-font-uploads) and [Adobe Fonts](https://docs.fontsplugin.com/integrations/adobe-fonts) is included.
-
