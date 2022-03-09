@@ -21,3 +21,9 @@ If you have already activated a site it will be shown here. Otherwise it will lo
 ![](<.gitbook/assets/image (19).png>)
 
 If you are having trouble retrieving your license key, simply email our friendly team ([team@fontsplugin.com](mailto:team@fontsplugin.com)) and we will be happy to retrieve it for you.
+
+### Activating Your License Key
+
+To enter your license key, navigate to wp-admin → Fonts Plugin → License.
+
+![](.gitbook/assets/wp-admin-license-key.png)

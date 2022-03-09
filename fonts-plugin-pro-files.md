@@ -18,7 +18,7 @@ Once logged in, click **View Details and Downloads**.
 
 Next, click the file name to download it to your computer.
 
-![](<.gitbook/assets/image (29).png>)
+![](<.gitbook/assets/image (29) (1).png>)
 
 {% hint style="info" %}
 To stop Safari automatically unzipping files see here - [https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091](https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091)
