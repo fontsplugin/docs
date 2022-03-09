@@ -14,6 +14,10 @@ Login to your account here: [https://fontsplugin.com/account/](https://fontsplug
 
 If you don't have an account you can [register here](https://fontsplugin.com/account-registration/).
 
+{% hint style="info" %}
+Creating an account will grant you permanent access to your files and license keys.
+{% endhint %}
+
 If you've forgotten your password, you can [reset it here](https://fontsplugin.com/wp-login.php?action=lostpassword).
 
 Once you have successfully logged in, click '_View Licenses_' and then '_Manage Sites_'.

@@ -10,6 +10,10 @@ Your license key and receipt is also accessible at [https://fontsplugin.com/acco
 
 You will need to login first, if you don't have an account you can [register here](https://fontsplugin.com/account-registration/).
 
+{% hint style="info" %}
+Creating an account will grant you permanent access to your files and license keys.
+{% endhint %}
+
 Once you have logged in, click '_View Licenses_' and then '_Manage Sites_'.
 
 If you have already activated a site it will be shown here. Otherwise it will look like this:

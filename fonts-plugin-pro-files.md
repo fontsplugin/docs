@@ -8,6 +8,10 @@ The Pro plugin file (_fonts-plugin-pro.zip_) is available inside your account he
 
 First, you will need to login to your account, if you don't already have an account you can [register here](https://fontsplugin.com/account-registration/).
 
+{% hint style="info" %}
+Creating an account will grant you permanent access to your files and license keys.
+{% endhint %}
+
 Once logged in, click **View Details and Downloads**.
 
 ![](<.gitbook/assets/image (31).png>)
