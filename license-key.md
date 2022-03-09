@@ -24,6 +24,6 @@ If you are having trouble retrieving your license key, simply email our friendly
 
 ### Activating Your License Key
 
-To enter your license key, navigate to wp-admin → Fonts Plugin → License.
+To add your license key to your website, navigate to wp-admin → Fonts Plugin → License.
 
 ![](.gitbook/assets/wp-admin-license-key.png)
