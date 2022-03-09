@@ -58,5 +58,6 @@
 ***
 
 * [Fonts Plugin Pro License Key](license-key.md)
+* [Fonts Plugin Pro Files](fonts-plugin-pro-files.md)
 * [Updating Fonts Plugin Pro](updating-fonts-plugin-pro.md)
 * [Manual Update](manual-update.md)

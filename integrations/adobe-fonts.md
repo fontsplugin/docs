@@ -6,7 +6,7 @@ description: >-
 
 # Adobe Fonts
 
-**Note: **To use Adobe Fonts you will need a Creative Cloud account. Unlike Google Fonts, this is not a free service.
+**Note:** To use Adobe Fonts you will need a Creative Cloud account. Unlike Google Fonts, this is not a free service.
 
 To begin using Adobe Fonts, navigate to _Fonts Plugin → Adobe Fonts_.
 
@@ -14,7 +14,7 @@ To begin using Adobe Fonts, navigate to _Fonts Plugin → Adobe Fonts_.
 
 First you will need to add your API key to connect Fonts Plugin to your Creative Cloud account.
 
-_You can retrieve your Adobe Fonts API Key here: _[_https://fonts.adobe.com/account/tokens_](https://fonts.adobe.com/account/tokens)__
+_You can retrieve your Adobe Fonts API Key here:_ [_https://fonts.adobe.com/account/tokens_](https://fonts.adobe.com/account/tokens)__
 
 ![](<../.gitbook/assets/image (23).png>)
 

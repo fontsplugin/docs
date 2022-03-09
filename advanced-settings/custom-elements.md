@@ -6,7 +6,7 @@ Custom Elements allow you to build Typography settings for any element on your w
 
 Custom Elements can be created under `Google Fonts` → `Custom Elements`.
 
-**Before creating Custom Elements it's important that you save any other changes you have made in the Customizer. **This is because when you press 'Save Changes' to generate the Custom Elements controls, the Customizer will refresh and lose any unsaved settings.
+**Before creating Custom Elements it's important that you save any other changes you have made in the Customizer.** This is because when you press 'Save Changes' to generate the Custom Elements controls, the Customizer will refresh and lose any unsaved settings.
 
 ![](https://fontsplugin.com/wp-content/uploads/2018/12/google-fonts-custom-element.png)
 
@@ -22,4 +22,4 @@ Once you have created your Custom Elements. Press `Save Changes`. You will then 
 
 ![](<../.gitbook/assets/image (11).png>)
 
-**Further Reading: **[How to Find CSS Selectors](https://fontsplugin.com/how-to-find-css-selectors/)
+**Further Reading:** [How to Find CSS Selectors](https://fontsplugin.com/how-to-find-css-selectors/)
