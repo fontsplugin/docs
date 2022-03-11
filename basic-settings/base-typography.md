@@ -8,7 +8,7 @@ The Base Typography control allows you to change the typography of your entire w
 
 ### Size, Weight, Color and Line Height
 
-Clicking the blue icon to the left of the ‘Font Family’ will reveal additional typography controls:  Font weight, style, size, color and line-height settings.
+Clicking the blue icon to the right of the ‘Font Family’ control will reveal additional typography controls:  Font weight, style, size, color and line-height settings.
 
 ![Font weight, style, size, color and line-height settings.](https://fontsplugin.com/wp-content/uploads/2019/04/reveal-settings.png)
 
