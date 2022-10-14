@@ -16,8 +16,6 @@ Clicking the blue icon to the right of the ‘Font Family’ control will reveal
 If your changes aren’t taking effect, you may need to enable the [‘Force Styles’ setting](../debugging/force-styles-setting.md).
 {% endhint %}
 
-The following CSS selectors are targeted:
-
-```css
-body, #content, .entry-content, .post-content, .page-content, .post-excerpt, .entry-summary, .entry-excerpt, .widget-area, .widget, .sidebar, #sidebar, footer, .footer, #footer, .site-footer
+```
+The following CSS selectors are targeted: body, #content, .entry-content, .post-content, .page-content, .post-excerpt, .entry-summary, .entry-excerpt, .widget-area, .widget, .sidebar, #sidebar, footer, .footer, #footer, .site-footer
 ```

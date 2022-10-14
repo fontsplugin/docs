@@ -6,8 +6,10 @@ The branding section consists of two controls:
 
 **Site Title Typography**
 
+The following CSS selectors are targeted:
+
 ```
-The following CSS selectors are targeted: #site-title, .site-title, #site-title a, .site-title a, #logo, #logo a, .logo, .logo a
+#site-title, .site-title, #site-title a, .site-title a, #logo, #logo a, .logo, .logo a
 ```
 
 **Site Description Typography**

@@ -12,8 +12,6 @@ Clicking the blue icon to the left of the ‘Font Family’ will reveal addition
 If your changes aren’t taking effect, you may need to enable the [‘Force Styles’ setting](../debugging/force-styles-setting.md).
 {% endhint %}
 
-The following CSS selectors are targeted:
-
 ```
-#site-title, .site-title, #site-title a, .site-title a, .entry-title, .entry-title a, h1, h2, h3, h4, h5, h6, .widget-title
+The following CSS selectors are targeted: #site-title, .site-title, #site-title a, .site-title a, .entry-title, .entry-title a, h1, h2, h3, h4, h5, h6, .widget-title
 ```
