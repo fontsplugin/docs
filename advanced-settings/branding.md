@@ -12,6 +12,8 @@ The following CSS selectors are targeted: #site-title, .site-title, #site-title 
 
 **Site Description Typography**
 
+The following CSS selectors are targeted:
+
 ```
-The following CSS selectors are targeted: #site-description, .site-description
+#site-description, .site-description, #site-tagline, .site-tagline, .wp-block-site-tagline#site-description, .site-description, #site-tagline, .site-tagline, .wp-block-site-tagline
 ```
