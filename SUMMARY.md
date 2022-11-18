@@ -31,8 +31,8 @@
 
 ## Optimization
 
+* [Optimization Panel](optimization/local-hosting.md)
 * [Font Loading](optimization/font-loading.md)
-* [Local Hosting](optimization/local-hosting.md)
 
 ## Custom Font Uploads
 
