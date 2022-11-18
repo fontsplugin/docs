@@ -4,6 +4,11 @@
 * [Installation](installation.md)
 * [Developers](developers.md)
 
+## Optimization
+
+* [Optimization Panel](optimization/local-hosting.md)
+* [Font Loading](optimization/font-loading.md)
+
 ## Basic Settings
 
 * [Base Typography](basic-settings/base-typography.md)
@@ -28,11 +33,6 @@
 
 * [Getting Started](gutenberg/getting-started.md)
 * [Transformations](gutenberg/transformations.md)
-
-## Optimization
-
-* [Optimization Panel](optimization/local-hosting.md)
-* [Font Loading](optimization/font-loading.md)
 
 ## Custom Font Uploads
 
