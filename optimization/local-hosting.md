@@ -14,9 +14,7 @@ The local hosting feature allows you to host the fonts from your own server inst
 
 Enabling local hosting is a simple 1-click process.
 
-Navigate to `Appearance` → `Customize` → `Google Fonts` → `Local Hosting`.
-
-Then simply toggle the switch to the `on` position.
+Simply toggle the checkbox to the `on` position.
 
 Press `Publish` and the plugin will do all the work in the background.
 
