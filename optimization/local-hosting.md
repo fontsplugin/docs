@@ -48,4 +48,4 @@ Fonts Plugin Pro loads your fonts in the most optimized way possible. For that r
 
 If you want to continue using the fonts supplied by your theme or plugins, the most optimal way is to enable the 'Remove External Fonts' setting and then add your fonts using the [Load Fonts Only](https://docs.fontsplugin.com/advanced-settings/load-fonts-only) feature.&#x20;
 
-However, if you are short on time and are looking for an instant solution, enabling this option will rewrite all your fonts to be hosted locally. This has the benefit of improving speed, and your website visitors privacy, as it removes the connect to the Google Fonts API.
+However, if you are short on time and are looking for an instant solution, enabling this option will rewrite all your fonts to be hosted locally. This has the benefit of improving pagespeed and protecting your website visitors privacy, as it removes the connect to the Google Fonts API.
