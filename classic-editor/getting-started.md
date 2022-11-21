@@ -7,7 +7,7 @@ To use Google Fonts in the 'Classic Editor', you must first tell the plugin whic
 * Add the fonts you want to use
 * Click `Publish`
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Once you have completed the above steps, your chosen fonts will now be available in the Classic Editor interface:
 

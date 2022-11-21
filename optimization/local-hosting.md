@@ -8,6 +8,8 @@ description: >-
 
 Located at `Appearance` → `Customize` → `Google Fonts` → `Optimization`.
 
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+
 ### Host Fonts Locally
 
 The local hosting feature allows you to host the fonts from your own server instead of Google’s. As well as being GDPR-friendly, this can also have performance benefits.
