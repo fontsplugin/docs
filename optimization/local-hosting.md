@@ -33,8 +33,6 @@ However, there is a more optimized file format that all modern browsers support,
 
 To enable WOFF2, toggle the switch:
 
-![](<../.gitbook/assets/image (12).png>)
-
 You will then need to clear your font cache by navigating to https://yourwebsite.com/?action=fpp-reset-cache\
 _(replace yourwebsite.com with your own URL)_
 
