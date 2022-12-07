@@ -1,6 +1,6 @@
 # Introduction
 
-Fonts Plugin is the number one Google Fonts Plugin for WordPress. It has been downloaded over 1,500,000 times and is active on 100,000+ websites.
+Fonts Plugin is the number one [Google Fonts Plugin for WordPress](https://fontsplugin.com). It has been downloaded over 1,500,000 times and is active on 100,000+ websites.
 
 Within minutes you can transform the typography of your website using the easy-to-use interface.
 
