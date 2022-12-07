@@ -22,6 +22,8 @@ Click the file name to download it to your computer.
 To stop Safari automatically unzipping files see here - [https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091](https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091)
 {% endhint %}
 
+### Upload to WordPress
+
 Inside _/wp-admin_ navigate to **Plugins → Add New** and click **Upload Plugin.**
 
 ![](<.gitbook/assets/image (30).png>)
