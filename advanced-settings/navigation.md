@@ -1,6 +1,6 @@
 # Navigation
 
-`Appearance` → `Customize`→ `Google Fonts` → `Advanced Settings` → `Navigation`
+`Appearance` → `Customize`→ `Fonts Plugin` → `Advanced Settings` → `Navigation`
 
 The branding section consists of one control:
 

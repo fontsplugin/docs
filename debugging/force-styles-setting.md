@@ -1,6 +1,6 @@
 # Force Styles Setting
 
-The `Force Styles` setting is located at `Google Fonts` → `Debugging`.
+The `Force Styles` setting is located at `Fonts Plugin` → `Debugging`.
 
 ![](https://fontsplugin.com/wp-content/uploads/2018/12/google-fonts-force-styles.png)
 

@@ -1,6 +1,6 @@
 # Content
 
-`Appearance` → `Customize`→ `Google Fonts` → `Advanced Settings` → `Content`
+`Appearance` → `Customize`→ `Fonts Plugin` → `Advanced Settings` → `Content`
 
 The **content** section consists of seven controls:
 

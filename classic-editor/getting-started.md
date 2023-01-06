@@ -3,7 +3,7 @@
 To use Google Fonts in the 'Classic Editor', you must first tell the plugin which fonts you want to use.&#x20;
 
 * In wp-admin, navigate to `Appearance` → `Customize`
-* Click `Google Fonts` → `Advanced Settings` → `Load Fonts Only`
+* Click `Fonts Plugin` → `Advanced Settings` → `Load Fonts Only`
 * Add the fonts you want to use
 * Click `Publish`
 

@@ -1,6 +1,6 @@
 # Footer
 
-`Appearance` → `Customize` → `Google Fonts` → `Advanced Settings` → `Footer`
+`Appearance` → `Customize` → `Fonts Plugin` → `Advanced Settings` → `Footer`
 
 The **footer** section consists of two controls:
 

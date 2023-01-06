@@ -1,6 +1,6 @@
 # Sidebar
 
-`Appearance` → `Customize`→ `Google Fonts` → `Advanced Settings` → `Sidebar`
+`Appearance` → `Customize`→ `Fonts Plugin` → `Advanced Settings` → `Sidebar`
 
 The **sidebar** section consists of two controls:
 

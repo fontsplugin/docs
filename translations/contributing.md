@@ -28,7 +28,7 @@ Rows that are green already have approved translations.
 
 To add a translation simply double click the empty field and enter your translation in the area provided. Then press the blue button to submit.
 
-![Click the blue button to submit your translation.](<../.gitbook/assets/image (15).png>)
+![Click the blue button to submit your translation.](<../.gitbook/assets/image (15) (1).png>)
 
 Repeat the process for the remaining strings.
 

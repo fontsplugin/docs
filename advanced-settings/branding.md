@@ -1,6 +1,6 @@
 # Branding
 
-`Appearance` → `Customize`→ `Google Fonts` → `Advanced Settings` → `Branding`
+`Appearance` → `Customize`→ `Fonts Plugin` → `Advanced Settings` → `Branding`
 
 The branding section consists of two controls:
 
