@@ -6,7 +6,7 @@ description: >-
 
 # Optimization Panel
 
-Located at `Appearance` → `Customize` → `Google Fonts` → `Optimization`.
+Located at `Appearance` → `Customize` → `Fonts Plugin` → `Optimization`.
 
 <img src="../.gitbook/assets/image.png" alt="" data-size="original">
 
