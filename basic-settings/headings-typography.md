@@ -1,6 +1,6 @@
 # Headings Typography
 
-`Appearance` → `Customize`→ `Google Fonts` → `Basic Settings`
+`Appearance` → `Customize`→ `Fonts Plugin` → `Basic Settings`
 
 The 'Headings Typography' control doesn't have a font size control as it modifies **all** heading types.
 
