@@ -1,6 +1,6 @@
 # Font Loading
 
-The Font Loading feature is located at `Google Fonts` → `Font Loading`.
+The Font Loading feature is located at `Fonts Plugin` → `Font Loading`.
 
 It’s extremely simply to use, simply untick any font weights you don’t need. Then press `Publish`.&#x20;
 
