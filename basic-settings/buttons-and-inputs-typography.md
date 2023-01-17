@@ -1,6 +1,6 @@
 # Buttons and Inputs Typography
 
-`Appearance` → `Customize`→ `Google Fonts` → `Basic Settings`
+`Appearance` → `Customize`→ `Fonts Plugin` → `Basic Settings`
 
 The Buttons and Inputs control allows you to customize the typography of the following:
 
