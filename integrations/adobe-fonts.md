@@ -10,11 +10,15 @@ description: >-
 
 To begin using Adobe Fonts, navigate to _Fonts Plugin → Adobe Fonts_.
 
-![](<../.gitbook/assets/image (22).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (21).png" alt="">
+
+</div>
 
 First you will need to add your API key to connect Fonts Plugin to your Creative Cloud account.
 
-_You can retrieve your Adobe Fonts API Key here:_ [_https://fonts.adobe.com/account/tokens_](https://fonts.adobe.com/account/tokens)__
+_You can retrieve your Adobe Fonts API Key here:_ [_https://fonts.adobe.com/account/tokens_](https://fonts.adobe.com/account/tokens)
 
 ![](<../.gitbook/assets/image (23).png>)
 

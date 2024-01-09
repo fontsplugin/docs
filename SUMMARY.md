@@ -62,3 +62,4 @@
 * [Fonts Plugin Pro Files](fonts-plugin-pro-files.md)
 * [Updating Fonts Plugin Pro](updating-fonts-plugin-pro.md)
 * [Manual Update](manual-update.md)
+* [Support Access](support-access.md)
