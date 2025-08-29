@@ -4,25 +4,7 @@ description: How to upload font files from your device and use them in WordPress
 
 # Custom Font Uploads
 
-### Where to Find Fonts
-
-If you are looking for free fonts, the most popular sources are [dafont.com](http://dafont.com), [1001freefonts.com](http://1001freefonts.com) and [fontsquirrel.com](http://fontsquirrel.com)
-
-For premium options, look to [creativemarket.com](http://creativemarket.com) and [creativefabrica.com](http://creativefabrica.com)
-
-#### Licensing
-
-Fonts usually have one of three license structures:
-
-* Free for Personal usage
-* Free for Personal and [Commercial usage](https://fontsplugin.com/google-fonts-commercial-use/)
-* Payment required for Personal and Commercial usage
-
-Font licenses can also vary depending on the intended use. For example, some fonts are free to use on your website, but you can't use them in a product you create to sell. If you are using free fonts it's important to ensure the license matches your intended use.
-
-### Using the Fonts in WordPress
-
-Next, click on _Fonts Plugin →_ _Upload Fonts_ in the admin sidebar.
+Click on _Fonts Plugin →_ _Upload Fonts_ in the admin sidebar.
 
 <figure><img src="https://fontsplugin.com/wp-content/uploads/image-8.png?fit=932x1024" alt=""><figcaption></figcaption></figure>
 
