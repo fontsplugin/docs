@@ -34,11 +34,11 @@ For the font to display correctly you only need to upload one type of font file,
 
 If your font is split into multiple files, for example: _OpenSans-Regular.woff2_ and _OpenSans-Bold.woff2_ then you will need to enter a consistent **Font Family** value for each variant. This ensures that all variants are linked in the backend.
 
+If the font you are adding only has one file, you don't need to enter a **Font Family** value.
+
 In this example we are adding the Regular variant of the Roboto font:
 
 <figure><img src="https://fontsplugin.com/wp-content/uploads/image-17.png?fit=817x1024" alt=""><figcaption><p>The name should be a unique value, so we can find the variant later if needed. So we have named it Roboto 400 for simplicity.</p></figcaption></figure>
-
-If the font you are adding only has one file, you don't need to enter a **Font Family** value.
 
 Once you have pressed the 'Add New Font' button, your font is now ready to use. It can be used in the Customizer, Block Editor (Gutenberg) or the Classic Editor
 
