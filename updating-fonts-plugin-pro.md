@@ -6,7 +6,7 @@ Because Fonts Plugin Pro is a premium plugin, your license key and website URL a
 
 First, check you have entered and activated your license key within wp-admin, under Fonts Plugin → License:
 
-![](<.gitbook/assets/image (27).png>)
+![](<.gitbook/assets/image (23).png>)
 
 If you license key is showing as active then the next step is to verify the website URL is correct in your FontsPlugin.com account.
 
@@ -24,7 +24,7 @@ Once you have successfully logged in, click '_View Licenses_' and then '_Manage 
 
 If an incorrect URL is shown, you can deactivate the license and add the correct URL instead:
 
-![](<.gitbook/assets/image (28).png>)
+![](<.gitbook/assets/image (35).png>)
 
 **Still not working?**
 

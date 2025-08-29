@@ -4,7 +4,7 @@ When you purchase Fonts Plugin Pro your license key will be included at the bott
 
 _Subject: **Fonts Plugin Pro Purchase**_
 
-![](<.gitbook/assets/image (18).png>)
+![](<.gitbook/assets/image (13).png>)
 
 Your license key and receipt is also accessible at [https://fontsplugin.com/account/](https://fontsplugin.com/account/)
 
@@ -18,7 +18,7 @@ Once you have logged in, click '_View Licenses_' and then '_Manage Sites_'.
 
 If you have already activated a site it will be shown here. Otherwise it will look like this:
 
-![](<.gitbook/assets/image (19).png>)
+![](<.gitbook/assets/image (7).png>)
 
 If you are having trouble retrieving your license key, simply email our friendly team ([team@fontsplugin.com](mailto:team@fontsplugin.com)) and we will be happy to retrieve it for you.
 
@@ -26,4 +26,4 @@ If you are having trouble retrieving your license key, simply email our friendly
 
 To add your license key to your website, navigate to wp-admin → Fonts Plugin → License.
 
-![](<.gitbook/assets/wp-admin-license-key (1).png>)
+![](.gitbook/assets/wp-admin-license-key.png)

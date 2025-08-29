@@ -51,6 +51,7 @@
 * [Beaver Builder](integrations/beaver-builder.md)
 * [Elementor](integrations/elementor.md)
 * [WPBakery](integrations/wpbakery.md)
+* [Divi Builder](integrations/divi-builder.md)
 
 ## Translations
 

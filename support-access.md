@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Support Access
 
 We try to minimize sending passwords via email because we value security and privacy. We’ve chosen the [Temporary Login Without Password](https://wordpress.org/plugins/temporary-login-without-password/) plugin to help us achieve this goal. With that plugin, it’s possible to create a special link with which we can log in without the need for a username and password.&#x20;

@@ -8,4 +8,4 @@ Click the 'Clear Cache' button and the plugin will do all the work in the backgr
 
 
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (2).png>)

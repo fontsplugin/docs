@@ -15,4 +15,4 @@ To use Google Fonts in the 'Beaver Builder' plugin, you must first tell the plug
 
 Now when using the 'Text Editor' block within the Beaver Builder you will have access to the fonts you have chosen (as well as some system fonts):
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (5).png>)

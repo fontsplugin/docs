@@ -15,4 +15,4 @@ To use Google Fonts in the 'WPBakery' plugin, you must first tell the plugin whi
 
 Now when using the 'Text Block' within WPBakery you will have access to the fonts you have chosen (as well as some system fonts):
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (17).png>)

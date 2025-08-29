@@ -2,7 +2,7 @@
 
 The Font Display setting controls what happens while a font is loading. There are four options, and **swap** is the default.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 **Block**
 

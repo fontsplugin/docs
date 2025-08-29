@@ -6,6 +6,6 @@ Within minutes you can transform the typography of your website using the easy-t
 
 Fonts can be set globally across your entire website, or for maximum control you can customize each line of text individually.
 
-Fonts Plugin works with both the [Classic Editor](classic-editor/getting-started.md) and [Gutenberg](https://docs.fontsplugin.com/gutenberg/getting-started).
+Fonts Plugin works with both the [Classic Editor](classic-editor/getting-started.md) and [Gutenberg (Block Editor)](https://docs.fontsplugin.com/gutenberg/getting-started).
 
 For users that require fonts that are not included in the Google Fonts library, support for [Custom Font Uploads](https://docs.fontsplugin.com/custom-font-uploads/custom-font-uploads) and [Adobe Fonts](https://docs.fontsplugin.com/integrations/adobe-fonts) is included.

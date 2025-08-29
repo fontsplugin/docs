@@ -14,11 +14,11 @@ Creating an account will grant you permanent access to your files and license ke
 
 Once logged in, click **View Details and Downloads**.
 
-![](<.gitbook/assets/image (31).png>)
+![](<.gitbook/assets/image (18).png>)
 
 Next, click the file name to download it to your computer.
 
-![](<.gitbook/assets/image (29) (1).png>)
+![](<.gitbook/assets/image (22).png>)
 
 {% hint style="info" %}
 To stop Safari automatically unzipping files see here - [https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091](https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091)
@@ -26,4 +26,4 @@ To stop Safari automatically unzipping files see here - [https://wiki.umbc.edu/p
 
 On the same page, you can also scroll down to view your **license key**:
 
-![](<.gitbook/assets/license-key (1).png>)
+![](.gitbook/assets/license-key.png)

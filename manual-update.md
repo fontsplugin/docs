@@ -12,11 +12,11 @@ Creating an account will grant you permanent access to your files and license ke
 
 Once logged in, click **View Details and Downloads**.
 
-![](<.gitbook/assets/image (31).png>)
+![](<.gitbook/assets/image (18).png>)
 
 Click the file name to download it to your computer.
 
-![](<.gitbook/assets/image (29) (1).png>)
+![](<.gitbook/assets/image (22).png>)
 
 {% hint style="info" %}
 To stop Safari automatically unzipping files see here - [https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091](https://wiki.umbc.edu/pages/viewpage.action?pageId=31919091)
@@ -26,7 +26,7 @@ To stop Safari automatically unzipping files see here - [https://wiki.umbc.edu/p
 
 Inside _/wp-admin_ navigate to **Plugins → Add New** and click **Upload Plugin.**
 
-![](<.gitbook/assets/image (30).png>)
+![](<.gitbook/assets/image (16).png>)
 
 On the next screen choose the _fonts-plugin-pro.zip_ file you just downloaded and click **Install Now**.
 
@@ -36,6 +36,6 @@ WordPress will inform you that the old version will be overwritten.&#x20;
 No settings or configurations will be lost when performing a manual update.
 {% endhint %}
 
-![](<.gitbook/assets/image (32).png>)
+![](<.gitbook/assets/image (9).png>)
 
 Click **Replace current with uploaded** and the process should complete successfully.
