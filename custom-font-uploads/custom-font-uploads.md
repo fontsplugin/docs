@@ -30,6 +30,8 @@ On the _Upload Fonts_ screen you will be able to name and upload your font files
 
 For the font to display correctly you only need to upload one type of font file, we recommend the .woff2 format as it has the smallest file size.
 
+**Name & Font Family**
+
 If your font is split into multiple files, for example: _OpenSans-Regular.woff2_ and _OpenSans-Bold.woff2_ then you will need to enter a consistent **Font Family** value for each variant. This ensures that all variants are linked in the backend.
 
 In this example we are adding the Regular variant of the Roboto font:
